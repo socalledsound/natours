@@ -8,9 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "jquery": "^3.5.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "node-sass": "^4.13.1"
   }
